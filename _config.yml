@@ -2,6 +2,7 @@ name: forresto.jp
 favicon: null
 layout_spectrum: 0.8
 typography_spectrum: 0.5
+site_lang: ja
 cta:
   domain: null
   bucket: null
