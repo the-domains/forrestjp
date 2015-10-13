@@ -1,7 +1,6 @@
 name: forresto.jp
 favicon: null
-layout_spectrum: 0.8
-typography_spectrum: 0.5
+layout_spectrum: 0.50171
 site_lang: ja
 cta:
   domain: null
@@ -17,12 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - "#006a9d"
-    - "#f75256"
-    - "#ffd66a"
-    - "#ffffff"
-    - "#718792"
+    - '#006a9d'
+    - '#f75256'
+    - '#ffd66a'
+    - '#ffffff'
+    - '#718792'
   brandStrength: 0
   lightness: 0.5
   saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
