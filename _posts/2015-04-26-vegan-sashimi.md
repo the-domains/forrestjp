@@ -1,6 +1,6 @@
 ---
 inLanguage: English
-starred: true
+starred: false
 keywords:
   - shortcuts
   - photo
@@ -23,8 +23,8 @@ app_links:
     app_store_id: '328407587'
     app_name: Flickr
 title: 蒟蒻 vegan sashimi
-datePublished: '2015-10-13T18:37:37.583Z'
-dateModified: '2015-06-17T22:25:24.737Z'
+datePublished: '2015-10-13T19:54:13.470Z'
+dateModified: '2015-10-13T19:53:23.482Z'
 sourcePath: _posts/2015-04-26-vegan-sashimi.md
 published: true
 tags:
@@ -40,6 +40,7 @@ publisher:
 inFeed: true
 hasPage: true
 inNav: false
+description: ''
 url: vegan-sashimi/index.html
 _type: Article
 _context: 'http://schema.org'
