@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[forresto.jp]]></title>
+        <description><![CDATA[forresto.jp]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 13 Oct 2015 18:29:29 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[English + 日本語]]></title>
+            <description><![CDATA[<article><h1>English + 日本語</h1><p>１ヶ月アメリカにいって、日本に戻ってきた。冬休みは良かった。多分出来過ぎた。家族と友達と色々な話ししたし、たくさん遊んでいた。そして「コントラダンス」と言うの社会ダンスとかワルツも何時間できた。</p></article>]]></description>
+            <link>undefinedenglish/index.html</link>
+            <guid isPermaLink="false">a449d957-332e-4ff6-9186-252a5f42120e</guid>
+            <pubDate>Tue, 13 Oct 2015 18:29:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
