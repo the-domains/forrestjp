@@ -1,5 +1,4 @@
 ---
-isBasedOnUrl: 'https://www.flickr.com/photos/forresto/7355522/in/photolist-'
 inLanguage: English
 starred: true
 keywords:
@@ -24,7 +23,7 @@ app_links:
     app_store_id: '328407587'
     app_name: Flickr
 title: 蒟蒻 vegan sashimi
-datePublished: '2015-04-26T18:01:47.223Z'
+datePublished: '2015-10-13T18:37:37.583Z'
 dateModified: '2015-06-17T22:25:24.737Z'
 sourcePath: _posts/2015-04-26-vegan-sashimi.md
 published: true
@@ -38,6 +37,9 @@ publisher:
   domain: www.flickr.com
   url: 'https://www.flickr.com/'
   favicon: 'https://s.yimg.com/pw/favicon.ico'
+inFeed: true
+hasPage: true
+inNav: false
 url: vegan-sashimi/index.html
 _type: Article
 _context: 'http://schema.org'
