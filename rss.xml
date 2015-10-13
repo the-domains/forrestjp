@@ -1,18 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[forresto.jp]]></title>
-        <description><![CDATA[forresto.jp]]></description>
-        <link>http://thegrid.ai/forrestjp/</link>
+        <title><![CDATA[forrestjp]]></title>
+        <description><![CDATA[forrestjp]]></description>
+        <link>http://thegrid.ai/forrestjp//</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 13 Oct 2015 18:39:18 GMT</lastBuildDate>
-        <atom:link href="http://thegrid.ai/forrestjp/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 13 Oct 2015 19:55:37 GMT</lastBuildDate>
+        <atom:link href="http://thegrid.ai/forrestjp//rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[蒟蒻 vegan sashimi]]></title>
+            <description><![CDATA[<article><h1>蒟蒻 vegan sashimi</h1><img src="https://farm1.staticflickr.com/7/7355522_b66e5d3078_m.jpg"></article>]]></description>
+            <link>https://www.flickr.com/photos/forresto/7355522/in/photolist-</link>
+            <guid isPermaLink="false">cebeb5c4-059d-4676-8977-161c2d114460</guid>
+            <pubDate>Tue, 13 Oct 2015 19:54:33 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[蒟蒻 vegan sashimi]]></title>
             <description><![CDATA[<article><h1>蒟蒻 vegan sashimi</h1><p>蒟蒻 hello ⌘ world 🌊🇺🇸フォ (wave, flag, bold "fu", little "o").</p><img src="https://farm1.staticflickr.com/7/7355522_b66e5d3078_b.jpg"></article>]]></description>
-            <link>http://thegrid.ai/forrestjp/vegan-sashimi/index.html</link>
+            <link>http://thegrid.ai/forrestjp//vegan-sashimi/index.html</link>
             <guid isPermaLink="false">1c1ca81c-1a73-4046-b5c2-5f35ecd6f369</guid>
-            <pubDate>Tue, 13 Oct 2015 18:37:37 GMT</pubDate>
+            <pubDate>Tue, 13 Oct 2015 19:54:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[光を帆に受け、宇宙を航行―「イカロス」]]></title>
+            <description><![CDATA[<article><h1>光を帆に受け、宇宙を航行―「イカロス」</h1><img src="http://web-japan.org/kidsweb/hitech/icarus/images/001.jpg"></article>]]></description>
+            <link>http://web-japan.org/kidsweb/hitech/icarus/images/001.jpg</link>
+            <guid isPermaLink="false">48d046f2-60e4-4bd2-b517-6d99f6dd1ea5</guid>
+            <pubDate>Tue, 13 Oct 2015 18:38:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[集団行動]]></title>
+            <description><![CDATA[<article><h1>集団行動</h1><p>This is recommended, too https://www.youtube.com/watch?v=O10hYUseYxQ</p><img src="https://i.ytimg.com/vi/Afpc_EcohcY/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=Afpc_EcohcY</link>
+            <guid isPermaLink="false">5bec275b-0705-4ada-9bdc-0a94e3026561</guid>
+            <pubDate>Tue, 13 Oct 2015 18:37:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[雪の夢]]></title>
@@ -24,7 +45,7 @@
         <item>
             <title><![CDATA[English + 日本語]]></title>
             <description><![CDATA[<article><h1>English + 日本語</h1><p>１ヶ月アメリカにいって、日本に戻ってきた。冬休みは良かった。多分出来過ぎた。家族と友達と色々な話ししたし、たくさん遊んでいた。そして「コントラダンス」と言うの社会ダンスとかワルツも何時間できた。</p></article>]]></description>
-            <link>http://thegrid.ai/forrestjp/english/index.html</link>
+            <link>http://thegrid.ai/forrestjp//english/index.html</link>
             <guid isPermaLink="false">a449d957-332e-4ff6-9186-252a5f42120e</guid>
             <pubDate>Tue, 13 Oct 2015 18:29:06 GMT</pubDate>
         </item>
